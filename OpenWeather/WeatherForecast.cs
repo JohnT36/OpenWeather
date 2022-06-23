@@ -11,7 +11,7 @@ namespace OpenWeather
     {
      
         public HttpClient _client { get; set; }
-        private string apiKey = "3bd0776b3850c2169384ac281b124386";
+        private string apiKey = "";
         private string city_Name;
 
         public WeatherForecast()
