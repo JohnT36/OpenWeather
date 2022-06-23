@@ -1,0 +1,41 @@
+{
+  "coord": {
+    "lon": -80.672,
+    "lat": 28.5392
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 75.6,
+    "feels_like": 76.48,
+    "temp_min": 73.02,
+    "temp_max": 77.09,
+    "pressure": 1014,
+    "humidity": 77
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 9.22,
+    "deg": 240
+  },
+  "clouds": { "all": 0 },
+  "dt": 1655987375,
+  "sys": {
+    "type": 1,
+    "id": 6077,
+    "country": "US",
+    "sunrise": 1655979966,
+    "sunset": 1656030218
+  },
+  "timezone": -14400,
+  "id": 4164092,
+  "name": "Merritt Island",
+  "cod": 200
+}
